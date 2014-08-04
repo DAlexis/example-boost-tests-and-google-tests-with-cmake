@@ -1,4 +1,4 @@
-Boost tests and Google tests example
+Example of Boost Tests and Google Tests usage with cmake
 ==========================
 
 This is a simpliest example of usage of two different unit tests frameworks:
