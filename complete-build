@@ -1,0 +1,9 @@
+#!/bin/bash
+
+build_dir=build
+
+mkdir -p $build_dir
+
+(cd $build_dir && cmake -DCMAKE_BUILD_TYPE=$cfg ../ && make)
+
+
